@@ -1,0 +1,20 @@
+# Data analysis
+
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning
+
+scikit-learn
+xgboost
+
+# Model explainability
+
+shap
+
+# Jupyter notebook
+
+jupyter
+ipykernel
